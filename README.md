@@ -1,2 +1,2 @@
 # hello-world
-regular repository 
+Hi i am new to Git HUB  
